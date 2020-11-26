@@ -374,7 +374,7 @@
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 
 
-#### Cloud Computing
+#### Cloud Computing [↑](https://github.com/minelarka14/free-programming-books/blob/master/free-programming-books.md#index)
 
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
